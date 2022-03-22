@@ -1,0 +1,1 @@
+24-02-2022 WFCalculadoraX1 - funcion con parser
