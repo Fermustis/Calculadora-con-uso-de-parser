@@ -240,7 +240,7 @@
             this.listBox1.Location = new System.Drawing.Point(35, 17);
             this.listBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(230, 213);
+            this.listBox1.Size = new System.Drawing.Size(252, 232);
             this.listBox1.TabIndex = 0;
             // 
             // menuStrip1
